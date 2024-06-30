@@ -15,7 +15,7 @@
 </p>
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=nvim,c,python,go,firebase,git,github,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=neovim,c,python,go,firebase,git,github,githubactions" />
 
 
 ## 📨 Contact me.
