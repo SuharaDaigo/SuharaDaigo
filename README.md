@@ -15,11 +15,7 @@
 </p>
 
 ## Stats
-![](https://github-readme-stats-clone-snq2001.vercel.app/api/profile-details?username=SuharaDaigo&theme=dracula)
-![](https://github-readme-stats-clone-snq2001.vercel.app/api/repos-per-language?username=SuharaDaigo&theme=dracula)
-![](https://github-readme-stats-clone-snq2001.vercel.app/api/cards/most-commit-language?username=SuharaDaigo&theme=dracula)
-![](https://github-readme-stats-clone-snq2001.vercel.app/api/cards/stats?username=SuharaDaigo&theme=dracula)
-![](https://github-readme-stats-clone-snq2001.vercel.app/api/cards/productive-time?username=SuharaDaigo&theme=dracula&utcOffset=9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuharaDaigo)](https://github.com/SuharaDaigo/github-readme-stats)
 
 ## 🌱 Languages & Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=neovim,vim,cpp,python,go,flutter,arduino,firebase,git,github,githubactions" />
