@@ -21,7 +21,7 @@
 ![Top Langs](https://github-readme-stats-clone-ec8i.vercel.app/api/top-langs/?username=SuharaDaigo&layout=compact&count_private=true&theme=tokyonight)
 
 ## 🌱 Languages & Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=neovim,vim,cpp,python,go,flutter,arduino,firebase,git,github,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=tokyonight&perline=8&i=neovim,vim,cpp,python,go,flutter,arduino,firebase,git,github,githubactions">
 
 
 ## 📨 Contact me.
