@@ -16,8 +16,8 @@
 
 ## Stats
 
-![GitHub stats](github-readme-stats-clone-ec8i.vercel.app/api?username=SuharaDaigo&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](github-readme-stats-clone-ec8i.vercel.app/api/top-langs/?username=SuharaDaigo&layout=compact&count_private=true&theme=tokyonight)](https://github.com/SuharaDaigo/github-readme-stats)
+![github-readme-stats](https://github-readme-stats-clone-ec8i.vercel.app/api?username=SuharaDaigo&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-clone-ec8i.vercel.app/api/top-langs/?username=SuharaDaigo&layout=compact&count_private=true&theme=tokyonight)](https://github.com/SuharaDaigo/github-readme-stats)
 
 ## 🌱 Languages & Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=neovim,vim,cpp,python,go,flutter,arduino,firebase,git,github,githubactions" />
