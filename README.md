@@ -14,6 +14,9 @@
   </a>
 </p>
 
+### 🌱 my skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,python,go,firebase,git,github,githubactions" />
+
 
 ## 📨 Contact me.
 
