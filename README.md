@@ -18,11 +18,11 @@
 </p>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuharaDaigo&theme=nightfox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuharaDaigo&theme=nightfox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuharaDaigo&theme=nightfox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuharaDaigo&theme=nightfox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuharaDaigo&theme=nightfox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuharaDaigo&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuharaDaigo&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuharaDaigo&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuharaDaigo&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuharaDaigo&theme=dracula&utcOffset=9)
 
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=neovim,vim,cpp,python,go,flutter,firebase,git,github,githubactions" />
