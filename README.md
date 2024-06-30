@@ -17,7 +17,7 @@
 ## Stats
 
 ![github-readme-stats](https://github-readme-stats-clone-ec8i.vercel.app/api?username=SuharaDaigo&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats-clone-ec8i.vercel.app/api/top-langs/?username=SuharaDaigo&layout=compact&count_private=true&theme=tokyonight)](https://github.com/SuharaDaigo/github-readme-stats)
+![Top Langs](https://github-readme-stats-clone-ec8i.vercel.app/api/top-langs/?username=SuharaDaigo&layout=compact&count_private=true&theme=tokyonight)
 <img alt="github trophy" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuharaDaigo&theme=tokyonight" />
 
 ## 🌱 Languages & Tools
