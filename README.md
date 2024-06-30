@@ -22,7 +22,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuharaDaigo&theme=gruvbox&utcOffset=9)
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=neovim,vim,c++,python,go,flutter,firebase,git,github,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=neovim,vim,cpp,python,go,flutter,firebase,git,github,githubactions" />
 
 
 ## 📨 Contact me.
