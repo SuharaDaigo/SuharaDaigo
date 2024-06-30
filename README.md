@@ -16,7 +16,9 @@
 
 ## Stats
 <img align="center" alt="github trophy" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuharaDaigo&theme=tokyonight">
+
 ![github-readme-stats](https://github-readme-stats-clone-ec8i.vercel.app/api?username=SuharaDaigo&count_private=true&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats-clone-ec8i.vercel.app/api/top-langs/?username=SuharaDaigo&layout=compact&count_private=true&theme=tokyonight)
 
 ## 🌱 Languages & Tools
