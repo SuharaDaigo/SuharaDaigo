@@ -3,9 +3,6 @@
   <a href="https://github.com/SuharaDaigo">
     <img height="20" src="https://komarev.com/ghpvc/?username=SuharaDaigo" />
   </a>
-  <a href="https://twitter.com/sDaigo1112">
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:sDaigo1112">
-  </a>
   <a href="https://github.com/SuharaDaigo">
     <img height="20" src="https://img.shields.io/github/followers/SuharaDaigo?label=follow&logo=github&style=flat" />
   </a>
