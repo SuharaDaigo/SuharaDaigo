@@ -14,6 +14,13 @@
   </a>
 </p>
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuharaDaigo&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuharaDaigo&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuharaDaigo&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuharaDaigo&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuharaDaigo&theme=gruvbox&utcOffset=9)
+
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=neovim,c,python,go,firebase,git,github,githubactions" />
 
