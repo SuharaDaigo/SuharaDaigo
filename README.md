@@ -15,7 +15,7 @@
 </p>
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuharaDaigo)](https://github.com/SuharaDaigo/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuharaDaigo&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ## 🌱 Languages & Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=neovim,vim,cpp,python,go,flutter,arduino,firebase,git,github,githubactions" />
