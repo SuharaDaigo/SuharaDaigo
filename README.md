@@ -21,8 +21,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuharaDaigo&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuharaDaigo&theme=dracula&utcOffset=9)
 
-### 🌱 Favorite Languages & Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=neovim,vim,cpp,python,go,flutter,firebase,git,github,githubactions" />
+## 🌱 Languages & Tools
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=neovim,vim,cpp,python,go,flutter,arduino,firebase,git,github,githubactions" />
 
 
 ## 📨 Contact me.
