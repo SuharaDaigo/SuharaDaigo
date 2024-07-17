@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a university student in Japan.
 <p align="left">
   <a href="https://github.com/SuharaDaigo">
     <img height="20" src="https://komarev.com/ghpvc/?username=SuharaDaigo" />
