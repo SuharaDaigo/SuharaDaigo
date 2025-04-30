@@ -25,7 +25,7 @@
 
 ## 📨 Contact me.
 
-**[Twitter - @sDaigo1112](https://x.com/kimateku)**
+**[X - @kimateku](https://x.com/kimateku)**
 <!--
 **SuharaDaigo/SuharaDaigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
