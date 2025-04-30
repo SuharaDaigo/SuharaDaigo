@@ -1,8 +1,4 @@
 ## Hi there 👋
-I am a university student in Japan.
-I enjoy customizing Neovim and creating my gadget.
-If you're interested, please follow me, or contact me.
-<p align="left">
   <a href="https://github.com/SuharaDaigo">
     <img height="20" src="https://komarev.com/ghpvc/?username=SuharaDaigo" />
   </a>
@@ -29,7 +25,7 @@ If you're interested, please follow me, or contact me.
 
 ## 📨 Contact me.
 
-**[Twitter - @sDaigo1112](https://twitter.com/sDaigo1112)**
+**[Twitter - @sDaigo1112](https://x.com/kimateku)**
 <!--
 **SuharaDaigo/SuharaDaigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
