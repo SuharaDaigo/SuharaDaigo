@@ -18,6 +18,8 @@
 
 username=SuharaDaigo&layout=compact&count_private=true&theme=tokyonight&hide=javascript,html,css,CMAKE)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuharaDaigo)](https://github.com/SuharaDaigo)
+
 ## 🌱 Training
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=neovim,vim,c,cpp,python,go,flutter,arduino,firebase,git,github,githubactions">
 
