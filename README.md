@@ -6,10 +6,10 @@
     <img height="20" src="https://img.shields.io/github/followers/SuharaDaigo?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/SDaigo1112">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/SDaigo1112/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/SuharaDaigo/posts.svg" />
   </a>
   <a href="http://qiita.com/SDaigo1112">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/SDaigo1112/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/SuharaDaigo/contributions.svg" />
   </a>
 </p>
 
