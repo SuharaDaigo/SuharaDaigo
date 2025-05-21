@@ -6,9 +6,8 @@
     <img height="20" src="https://img.shields.io/github/followers/SuharaDaigo?label=follow&logo=github&style=flat" />
   </a>
 
-  [![My Qiita posts](https://qiita-badge.apiapi.app/s/SuharaDaigo/posts.svg)](http://qiita.com/SuharaDaigo) 
-  [![My Qiita contributions](https://qiita-badge.apiapi.app/s/SuharaDaigo/contributions.svg)](http://qiita.com/SuharaDaigo) 
-  [![My Qiita followers](https://qiita-badge.apiapi.app/s/SuharaDaigo/followers.svg)](http://qiita.com/SuharaDaigo)
+  <img height="20" src="https://qiita-badge.apiapi.app/s/SuharaDaigo/posts.svg" />
+  <img height="20" src="https://qiita-badge.apiapi.app/s/SuharaDaigo/contributions.svg" />
 </p>
 
 ## 📈 Status
