@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuharaDaigo&theme=tokyonight)](https://github.com/SuharaDaigo)
 
 ## 🌱 Training
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=neovim,vim,c,cpp,python,go,flutter,arduino,firebase,git,github,githubactions">
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=neovim,vim,ansible,terraform,openstack,c,cpp,python,go,flutter,arduino,firebase,git,github,githubactions">
 
 
 ## 📨 Contact me.
