@@ -1,14 +1,4 @@
 ## Hi there 👋
-  <a href="https://github.com/SuharaDaigo">
-    <img height="20" src="https://komarev.com/ghpvc/?username=SuharaDaigo" />
-  </a>
-  <a href="https://github.com/SuharaDaigo">
-    <img height="20" src="https://img.shields.io/github/followers/SuharaDaigo?label=follow&logo=github&style=flat" />
-  </a>
-
-  <img height="20" src="https://qiita-badge.apiapi.app/s/SuharaDaigo/posts.svg" />
-  <img height="20" src="https://qiita-badge.apiapi.app/s/SuharaDaigo/contributions.svg" />
-</p>
 
 ## 📈 Status
 <img align="center" alt="github trophy" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuharaDaigo&theme=tokyonight">
